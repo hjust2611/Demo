@@ -1,0 +1,10 @@
+SMAP
+postlist_jsp.java
+JSP
+*S JSP
+*F
++ 0 postlist.jsp
+view/user/postlist.jsp
+*L
+1,71:44
+*E
